@@ -20,3 +20,15 @@ It batch generates Ichimoku charts of the stock consituents of the Dow Jones 30 
 
 ![newplot (2)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/e7d60378-e736-4c0a-a365-b31cee4cfe70)
 
+# Daily Return Analysis
+
+It plots daily returns of past number of years horizontally on an interactive chart
+![newplot (3)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/4277539a-f7d7-48cb-8096-4b18fbd28714)
+
+It plots daily returns by year as static charts
+![image](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/ee36202c-0c82-4b01-8b29-07fcb63e2d47)
+
+![image](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/d87edfb5-b942-437f-a967-f09f7348264d)
+
+
+
