@@ -3,16 +3,26 @@
 A quick overview of seasonality of stock indices and BTC by month over the past years.
 
 For example, for the past 5 years, SPY has historically had positive returns in the months of January, April, July, Octorber and November.
+SPY Average Monthly Return (2017 - 2023)
+![newplot](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/c466f269-3e55-4637-a63f-bf8b2976b07b)
 
-![newplot (1)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/388e9fb4-ad1b-4627-ba76-370595ed7f02)
+SPY Average Monthly Return (2012 - 2023)
+![newplot (1)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/91ff1d95-132d-490e-92ef-eaf4072fa1b9)
 
-![newplot](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/5091a1ac-1b09-4bfd-9d86-82460cdc1ace)
+SPY Average Monthly Return (2012 - 2023)
+![newplot (1)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/7c34dbb4-f4a0-45b8-b20d-3b20f904c199)
 
-![newplot (2)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/c00411fa-c1fb-4f60-a8b6-311f759c65da)
+SPY Average Monthly Return (2007 - 2023)
+![newplot (2)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/9808f40c-f7c5-4615-8729-7006a6b1f47a)
 
-![newplot (3)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/acb2c990-5e95-40ca-9612-77ebe7b4f353)
+BTC-USD Average Monthly Return (2019 - 2023)
+![newplot (3)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/674e79a6-d842-47d4-9128-4ca1ef5f9246)
 
-![newplot (4)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/93605c72-6faf-4a5f-b95b-6f9c765b0cdd)
+BTC-USD Average Monthly Return (2017 - 2023)
+![newplot (4)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/12cdb08d-299b-40aa-9627-3f01253ab354)
+
+BTC-USD Average Monthly Return (2015 - 2023)
+![newplot (5)](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/02997764-1a44-4dfd-a883-041d404ddb73)
 
 # Generate Ichimoku Charts
 
