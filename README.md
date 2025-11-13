@@ -48,3 +48,33 @@ It calculates trade entries between specific hours of the day, i.e. price change
 ![image](https://github.com/harryguiacorn/Trading-Analysis-Statistics/assets/1398153/2e1baab5-389a-4849-97d0-e9f3ee61206d)
 
 
+# 📊 Multi-Asset Pullback Dashboard
+
+This dashboard suite analyzes historical price data for major assets to identify significant pullbacks, recovery patterns, and post-recovery stability.
+
+## 🧭 Assets Tracked
+- **SPY** – S&P 500 ETF  
+- **QQQ** – Nasdaq 100 ETF  
+- **BTC-USD** – Bitcoin (USD)  
+- **DIA** – Dow Jones Industrial Average ETF  
+- **GLD** – Gold ETF
+
+## 📈 Metrics Analyzed
+- All-Time High (ATH) dates and prices  
+- Pullback % from ATH (≥10%)  
+- Recovery duration to new ATH  
+- Post-recovery stability duration  
+- Max drawdown % during each pullback  
+- Drawdown and recovery timelines  
+- 50-day and 200-day moving averages
+
+## 📂 Outputs Per Asset
+- CSV, Excel, and JSON exports  
+- Interactive pullback tables with export buttons and pagination  
+- Scatter plot of pullback % over time  
+- Line chart of price with moving averages
+
+## 🧠 How to Use
+- Click an asset link to explore its pullback history  
+- Use the dropdown to adjust rows per page  
+- Export data or charts for further analysis
